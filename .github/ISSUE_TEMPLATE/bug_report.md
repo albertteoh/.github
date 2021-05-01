@@ -28,7 +28,6 @@ If applicable, add screenshots to help explain your problem.
  - Deployment: [e.g. bare metal, Docker, Kubernetes, ...]
 
 **What troubleshooting steps did you try?**
-Try to follow https://www.jaegertracing.io/docs/latest/troubleshooting/ and describe how far you were able to progress and/or which steps did not work.
 
 **Additional context**
 Add any other context about the problem here.
